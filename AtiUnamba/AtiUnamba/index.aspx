@@ -38,9 +38,9 @@
 					<div class="inner">
 						<header>
 							<h1>UNAMBA</h1>
-							<p>UNIVERSIDAD NACIONAL MICAELA BASTIDAS DE APURIMAC.</p>
+							<p>UNIVERSIDAD NACIONAL MICAELA BASTIDAS DE APURIMAC</p>
 						</header>
-						<a href="derechos.aspx" class="button big alt scrolly">ACCEDER A TUS DERECHOS Y DEVERES</a>
+						<a href="derechos.aspx" class="button big alt scrolly">ACCEDER A TUS DERECHOS Y DEBERES</a>
 					</div>
 
 				</section>
@@ -65,12 +65,15 @@
 				<div class="inner">
 					<div class="flex flex-3">
 						<div class="col">
-							<h3>CARRERAS PROFESSIONALES</h3>
+							<h3>CARRERAS PROFESIONALES</h3>
 							<ul class="alt">
-								<li><a href="#">ingenieria Informatica y Sistemas.</a></li>
-								<li><a href="#">ingenieria de Minas</a></li>
-								<li><a href="#">Ciencia Politicas y Gubernabilidad .</a></li>
-								<li><a href="#">Agroindustrial.</a></li>
+								<li><a href="#">Ingenieria Informatica y Sistemas.</a></li>
+								<li><a href="#">Ingenieria de Minas</a></li>
+								<li><a href="#">Ingenieria de Civil</a></li>
+								<li><a href="#">Administracion de Empresas</a></li>
+								<li><a href="#">Educacion Inicial e intercultural Bilingue</a></li>
+								<li><a href="#">Ciencia Politicas y Gobernabilidad</a></li>
+								<li><a href="#">Ingenieria Agroindustrial</a></li>
 							</ul>
 						</div>
 						<div class="col">
