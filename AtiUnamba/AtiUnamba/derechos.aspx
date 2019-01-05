@@ -18,7 +18,7 @@
 		<!-- Header -->
 			<header id="header">
 				<h1><a href="#">UNAMBA <span>bienvenido a tus derechos y deveres</span></a></h1>
-				<a href="#menuS">Menu</a>
+				<a href="#menus">Menu</a>
 			</header>
 
 		<!-- Nav -->
