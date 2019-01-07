@@ -39,6 +39,7 @@
 							<p>&nbsp;</p>
 						</header>
 						<div class="video">
+							 &nbsp;
 							 Artículo 97. Estudiantes
                               Son estudiantes universitarios de pregrado quienes, habiendo concluido los estudios de educación secundaria, han aprobado el proceso de admisión a la universidad, han alcanzado vacante y se encuentran matriculados en ella. 
 
