@@ -64,7 +64,7 @@
             <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="ACCEDER" />
             <br />
             <br />
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <asp:Label ID="Label2" runat="server" Font-Bold="True" ForeColor="Red"></asp:Label>
         </td>
         <td>&nbsp;</td>
