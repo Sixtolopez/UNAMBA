@@ -32,7 +32,7 @@
     <tr>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
-        <td style="align-content:center" class="auto-style1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; INGRESE TU CODIGO</td>
+        <td style="align-content:center" class="auto-style1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; INGRESE SU CODIGO</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         
@@ -50,7 +50,7 @@
     <tr>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
-        <td style="align-content:center" class="auto-style1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CLAVE</td>
+        <td style="align-content:center" class="auto-style1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; INGRESE SU DNI</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
