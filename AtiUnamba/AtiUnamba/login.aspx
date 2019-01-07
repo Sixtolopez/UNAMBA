@@ -9,7 +9,7 @@
 </head>
 <form id="form1" runat="server">
 
-<table style="width:100%;">
+<table style="width:100%; background-color:khaki">
     <tr>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
