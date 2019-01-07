@@ -79,19 +79,19 @@
 						<div class="col">
 							<h3>Sedes</h3>
 							<ul class="alt">
-								<li><a href="#">Cotabambas.</a></li>
+								<li><a href="#">Cotabambas</a></li>
 								<li><a href="#">Vilcabamba</a></li>
-								<li><a href="#">Haquira.</a></li>
-								<li><a href="#">Abancay.</a></li>
+								<li><a href="#">Haquira</a></li>
+								<li><a href="#">Abancay</a></li>
 							</ul>
 						</div>
 						<div class="col">
-							<h3>Servicion Online</h3>
+							<h3>Servicio Online</h3>
 							<ul class="alt">
-								<li><a href="#">lorem ipsus.</a></li>
-								<li><a href="#">Vis id faucibus montes tempor</a></li>
-								<li><a href="#">Massa amet lobortis vel.</a></li>
-								<li><a href="#">Nascetur nunc varius commodo.</a></li>
+								<li><a href="#">...</a></li>
+								<li><a href="#">...</a></li>
+								<li><a href="#">...</a></li>
+								<li><a href="#">...</a></li>
 							</ul>
 						</div>
 					</div>
