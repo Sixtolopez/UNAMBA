@@ -4,7 +4,10 @@
 <head>
     <style type="text/css">
         .auto-style1 {
-            width: 388px;
+            width: 430px;
+        }
+        .auto-style2 {
+            width: 100%;
         }
     </style>
     <meta charset="utf-8" />
@@ -16,29 +19,28 @@
     
 <form id="form1" runat="server">
 
-<table style="width:100%; background-color:khaki">
+<table style="background-color:cornflowerblue" class="auto-style2">
     <tr>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td class="auto-style1">
-            <asp:Label ID="Label1" runat="server" Font-Size="35px" ForeColor="#0033CC" Text="UNAMBA"></asp:Label>
-        </td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+            <asp:Label ID="Label1" runat="server" Font-Size="35px" ForeColor="#0033CC" Text="UNAMBA"></asp:Label> <br />
+            <asp:Label ID="Label2" runat="server" Font-Size="35px" ForeColor="#0033CC" Text="RESPONDABILIDADES Y DERECHOS"></asp:Label>
+           
+        </td> 
     </tr>
     <tr>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
-        <td style="align-content:center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CODIGO ALUMNOs </td>
+        <td style="align-content:center" class="auto-style1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CODIGO ALUMNOs </td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        
     </tr>
     <tr>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
-        <td  style="align-content:center">
+        <td  style="align-content:center" class="auto-style1">
             <asp:TextBox ID="txtCodigo" runat="server"></asp:TextBox>
         </td>
         <td>&nbsp;</td>
@@ -48,7 +50,7 @@
     <tr>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
-        <td style="align-content:center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CLAVE</td>
+        <td style="align-content:center" class="auto-style1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CLAVE</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
@@ -79,7 +81,7 @@
 </table>
 
 </form>
-        </body>
+      
 </html>
 
 
