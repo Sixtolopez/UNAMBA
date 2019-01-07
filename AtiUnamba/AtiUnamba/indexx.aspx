@@ -26,9 +26,9 @@
 		<!-- Nav -->
 			<nav id="menu">
 				<ul class="links">
-					<li><a href="index.html">Home</a></li>
-					<li><a href="generic.html">Generic</a></li>
-					<li><a href="elements.html">Elements</a></li>
+					<li><a href="index.html">Inicio</a></li>
+					<li><a href="generic.html">General</a></li>
+					<li><a href="elements.html">Elementos</a></li>
 				</ul>
 			</nav>
 
@@ -73,19 +73,21 @@
 						<div class="col">
 							<h3>CARRERAS PROFESSIONALES</h3>
 							<ul class="alt">
-								<li><a href="#">ingenieria Informatica y Sistemas.</a></li>
+								<li><a href="#">ingenieria Informatica y Sistemas</a></li>
 								<li><a href="#">ingenieria de Minas</a></li>
-								<li><a href="#">Ciencia Politicas y Gubernabilidad .</a></li>
-								<li><a href="#">Agroindustrial.</a></li>
+								<li><a href="#">ingenieria Civil</a></li>
+								<li><a href="#">Educacion Inicial intercultural Bilingue</a></li>
+								<li><a href="#">Ciencia Politicas y Gobernabilidad</a></li>
+								<li><a href="#">ingenieria Agroindustrial</a></li>
 							</ul>
 						</div>
 						<div class="col">
 							<h3>Sedes</h3>
 							<ul class="alt">
-								<li><a href="#">Cotabambas.</a></li>
+								<li><a href="#">Cotabambas</a></li>
 								<li><a href="#">Vilcabamba</a></li>
-								<li><a href="#">Haquira.</a></li>
-								<li><a href="#">Abancay.</a></li>
+								<li><a href="#">Haquira</a></li>
+								<li><a href="#">Abancay</a></li>
 							</ul>
 						</div>
 						<div class="col">
