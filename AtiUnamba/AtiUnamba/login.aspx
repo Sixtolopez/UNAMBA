@@ -23,7 +23,7 @@
     <tr>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
-        <td style="align-content:center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CODIGO ALUMNO</td>
+        <td style="align-content:center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CODIGO ALUMNOs</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
