@@ -32,7 +32,7 @@
     <tr>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
-        <td style="align-content:center" class="auto-style1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CODIGO ALUMNOs </td>
+        <td style="align-content:center" class="auto-style1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; INGRESE TU CODIGO</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         
