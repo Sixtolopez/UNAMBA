@@ -1,12 +1,19 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="login.aspx.cs" Inherits="AtiUnamba.index" %>
-
+<!DOCTYPE HTML>
+<html>
 <head>
     <style type="text/css">
         .auto-style1 {
             width: 388px;
         }
     </style>
+    <meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
 </head>
+    <body class="subpage">
+
+    
 <form id="form1" runat="server">
 
 <table style="width:100%; background-color:khaki">
@@ -64,7 +71,6 @@
             <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="ACCEDER" />
             <br />
             <br />
-            <asp:Label ID="Label2" runat="server" Font-Bold="True" ForeColor="Red"></asp:Label>
         </td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
@@ -73,5 +79,7 @@
 </table>
 
 </form>
+        </body>
+</html>
 
 
