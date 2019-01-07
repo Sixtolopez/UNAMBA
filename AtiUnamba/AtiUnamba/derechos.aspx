@@ -49,7 +49,14 @@
 						
 					</div>
 				</section> 
-				<p> LEY UNIVERSITARIA Ley N.° 30220 ESTUDIANTES      </p>
+				<p> LEY UNIVERSITARIA Ley N.° 30220 ESTUDIANTES  
+				 
+				 Artículo 97. Estudiantes
+                              Son estudiantes universitarios de pregrado quienes, habiendo concluido los estudios de educación secundaria, han aprobado el proceso de admisión a la universidad, han alcanzado vacante y se encuentran matriculados en ella. 
+
+                              Los estudiantes de los programas de posgrado, de segunda especialidad, así como de los programas de educación continua, son quienes han aprobado el proceso de admisión y se encuentran matriculados. En ambos casos se sujetan a lo dispuesto en los estatutos correspondientes. Los estudiantes extranjeros no requieren de visa para la matrícula; la misma que debe regularizarse antes del inicio del semestre lectivo siguiente.
+
+				 </p>
 				
 
 			<!-- Three -->
