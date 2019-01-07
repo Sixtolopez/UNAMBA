@@ -35,27 +35,22 @@
 				<section class="wrapper style1">
 					<div class="inner">
 						<header class="align-center">
-							<h2>TUS RERECHOS Y DEBERES SON</h2>
-							<p>SIXTO COPEAS</p>
+							<h2>LEY UNIVERSITARIA Ley N.° 30220 ESTUDIANTES</h2>
+							<p>&nbsp;</p>
 						</header>
 						<div class="video">
-							<div class="video-wrapper">
-								<iframe width="560" height="315" src="https://www.youtube.com/embed/s6zR2T9vn2c" frameborder="0" allowfullscreen></iframe>
-							</div>
-							<p class="caption">
-								In luctus nunc nec lacus condimentum maximus. Nunc vestibulum urna a arcu dignissim, nec aliquam ultrices ac massa eget placerat.
-							</p>
-						</div>
-						
-					</div>
-				</section> 
-				<p> LEY UNIVERSITARIA Ley N.° 30220 ESTUDIANTES  
-				 
-				 Artículo 97. Estudiantes
+							 Artículo 97. Estudiantes
                               Son estudiantes universitarios de pregrado quienes, habiendo concluido los estudios de educación secundaria, han aprobado el proceso de admisión a la universidad, han alcanzado vacante y se encuentran matriculados en ella. 
 
                               Los estudiantes de los programas de posgrado, de segunda especialidad, así como de los programas de educación continua, son quienes han aprobado el proceso de admisión y se encuentran matriculados. En ambos casos se sujetan a lo dispuesto en los estatutos correspondientes. Los estudiantes extranjeros no requieren de visa para la matrícula; la misma que debe regularizarse antes del inicio del semestre lectivo siguiente.
 
+						</div>
+						
+					</div>
+				</section> 
+				<p>   
+				 
+				
 				 </p>
 				
 

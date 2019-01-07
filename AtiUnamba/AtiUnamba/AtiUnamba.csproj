@@ -95,7 +95,6 @@
     <Content Include="images\pic11.jpg" />
     <Content Include="index.aspx" />
     <Content Include="login.aspx" />
-    <Content Include="indexx.aspx" />
     <Content Include="LICENSE.txt" />
     <Content Include="Web.config" />
   </ItemGroup>
