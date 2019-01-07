@@ -49,7 +49,7 @@
 						
 					</div>
 				</section> 
-				<p> LEY UNIVERSITARIA Ley N.° 30220 ESTUDIANTES </p>
+				<p> LEY UNIVERSITARIA Ley N.° 30220 ESTUDIANTES      </p>
 				
 
 			<!-- Three -->
