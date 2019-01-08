@@ -88,10 +88,10 @@
 						<div class="col">
 							<h3>Servicio Online</h3>
 							<ul class="alt">
+								<!--<li><a href="#">...</a></li>
 								<li><a href="#">...</a></li>
 								<li><a href="#">...</a></li>
-								<li><a href="#">...</a></li>
-								<li><a href="#">...</a></li>
+								<li><a href="#">...</a></li>-->
 							</ul>
 						</div>
 					</div>
