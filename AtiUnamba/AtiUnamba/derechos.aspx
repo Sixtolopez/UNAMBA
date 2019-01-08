@@ -39,11 +39,18 @@
 							<p>&nbsp;</p>
 						</header>
 						<div class="video">
+						
 							 &nbsp;
 							 Artículo 97. Estudiantes
                               Son estudiantes universitarios de pregrado quienes, habiendo concluido los estudios de educación secundaria, han aprobado el proceso de admisión a la universidad, han alcanzado vacante y se encuentran matriculados en ella. 
 
                               Los estudiantes de los programas de posgrado, de segunda especialidad, así como de los programas de educación continua, son quienes han aprobado el proceso de admisión y se encuentran matriculados. En ambos casos se sujetan a lo dispuesto en los estatutos correspondientes. Los estudiantes extranjeros no requieren de visa para la matrícula; la misma que debe regularizarse antes del inicio del semestre lectivo siguiente.
+
+
+                              Artículo 98. Proceso de admisión
+
+                              La admisión a la universidad se realiza mediante concurso público, previa definición de plazas y máximo una vez por ciclo. El concurso consta de un examen de conocimientos como proceso obligatorio principal y una evaluación de aptitudes y actitudes de forma complementaria opcional. El Estatuto de cada universidad establece las modalidades y reglas que rigen el proceso ordinario de admisión y el régimen de matrícula al que pueden acogerse los estudiantes. Ingresan a la universidad los postulantes que alcancen plaza vacante y por estricto orden de mérito. 
+
 
 						</div>
 						
