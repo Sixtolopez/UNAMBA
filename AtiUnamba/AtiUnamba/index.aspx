@@ -74,6 +74,7 @@
 								<li><a href="#">Educacion Inicial e intercultural Bilingue</a></li>
 								<li><a href="#">Ciencia Politicas y Gobernabilidad</a></li>
 								<li><a href="#">Ingenieria Agroindustrial</a></li>
+								<li><a href="#">medicina veterinaria y zootecnia</a></li>
 							</ul>
 						</div>
 						<div class="col">
