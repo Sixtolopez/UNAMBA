@@ -76,6 +76,9 @@
 							Matricularse un número mínimo de doce (12) créditos por semestre para conservar su condición de estudiante regular, salvo que le falten menos para culminar la carrera.
 							Los demás que disponga el Estatuto de cada universidad.      
 
+							Artículo 100. Derechos de los estudiantes
+
+
 
 
 						</div>
