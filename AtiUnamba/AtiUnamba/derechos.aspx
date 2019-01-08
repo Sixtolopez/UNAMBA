@@ -39,7 +39,7 @@
 							<p>&nbsp;</p>
 						</header>
 						<div class="video">
-						
+
 							 &nbsp;
 							 Artículo 97. Estudiantes
                               Son estudiantes universitarios de pregrado quienes, habiendo concluido los estudios de educación secundaria, han aprobado el proceso de admisión a la universidad, han alcanzado vacante y se encuentran matriculados en ella. 
@@ -50,6 +50,18 @@
                               Artículo 98. Proceso de admisión
 
                               La admisión a la universidad se realiza mediante concurso público, previa definición de plazas y máximo una vez por ciclo. El concurso consta de un examen de conocimientos como proceso obligatorio principal y una evaluación de aptitudes y actitudes de forma complementaria opcional. El Estatuto de cada universidad establece las modalidades y reglas que rigen el proceso ordinario de admisión y el régimen de matrícula al que pueden acogerse los estudiantes. Ingresan a la universidad los postulantes que alcancen plaza vacante y por estricto orden de mérito. 
+
+                              Artículo 98. Proceso de admisión
+
+                             Las universidades determinan el número de vacantes, con las siguientes excepciones:
+
+                              Los titulados o graduados. 
+
+                            Quienes hayan aprobado por lo menos cuatro periodos lectivos semestrales o dos anuales o setenta y dos (72) créditos.
+                            Los dos (2) primeros puestos del orden de mérito de las instituciones educativas de nivel secundario, de cada región, en todo el país.
+                            Los deportistas destacados, acreditados como tales por el Instituto Peruano del Deporte (IPD).
+                            Los becados por los Programas Deportivos de Alta Competencia (PRODAC) en las universidades privadas societarias.
+                            Las personas con discapacidad tienen derecho a una reserva del 5 % de las va- cantes ofrecidas en sus procedimientos de admisión.
 
 
 						</div>
