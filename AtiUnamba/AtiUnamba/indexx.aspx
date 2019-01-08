@@ -93,10 +93,7 @@
 						<div class="col">
 							<h3>Servicion Online</h3>
 							<ul class="alt">
-								<li><a href="#">lorem ipsus.</a></li>
-								<li><a href="#">Vis id faucibus montes tempor</a></li>
-								<li><a href="#">Massa amet lobortis vel.</a></li>
-								<li><a href="#">Nascetur nunc varius commodo.</a></li>
+								
 							</ul>
 						</div>
 					</div>
