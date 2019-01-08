@@ -40,6 +40,7 @@
     <tr>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
+        <td>&nbsp;</td>
         <td  style="align-content:center" class="auto-style1">
             <asp:TextBox ID="txtCodigo" runat="server"></asp:TextBox>
         </td>
