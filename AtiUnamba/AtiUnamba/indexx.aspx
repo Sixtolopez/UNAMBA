@@ -79,6 +79,7 @@
 								<li><a href="#">Educacion Inicial intercultural Bilingue</a></li>
 								<li><a href="#">Ciencia Politicas y Gobernabilidad</a></li>
 								<li><a href="#">ingenieria Agroindustrial</a></li>
+									<li><a href="#">Administracion de Empresas</a></li>
 							</ul>
 						</div>
 						<div class="col">
@@ -91,7 +92,7 @@
 							</ul>
 						</div>
 						<div class="col">
-							<h3>Servicion Online</h3>
+							<h3>Servicio Online</h3>
 							<ul class="alt">
 
 							</ul>
