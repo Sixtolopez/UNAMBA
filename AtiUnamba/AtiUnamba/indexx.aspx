@@ -93,7 +93,7 @@
 						<div class="col">
 							<h3>Servicion Online</h3>
 							<ul class="alt">
-								
+
 							</ul>
 						</div>
 					</div>
@@ -105,7 +105,8 @@
 						<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
 						<li><a href="#" class="icon fa-snapchat"><span class="label">Snapchat</span></a></li>
 					</ul>
-					&copy; Untitled. Design: <a href="https://templated.co">TEMPLATED</a>. Images: <a href="https://unsplash.com">Coverr</a>. Video: <a href="https://coverr.co">Coverr</a>.
+					<!--&copy; Untitled. Design: <a href="https://templated.co">TEMPLATED</a>. Images: <a href="https://unsplash.com">Coverr</a>. Video: <a href="https://coverr.co">Coverr</a>.
+					-->
 				</div>
 			</footer>
 
