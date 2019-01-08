@@ -59,9 +59,10 @@
 
                             Quienes hayan aprobado por lo menos cuatro periodos lectivos semestrales o dos anuales o setenta y dos (72) créditos.
                             Los dos (2) primeros puestos del orden de mérito de las instituciones educativas de nivel secundario, de cada región, en todo el país.
-                            Los deportistas destacados, acreditados como tales por el Instituto Peruano del Deporte (IPD).
+                            Los deportistas destacados, acreditados como tales por el Instituto Peruano del Deporte
+                             (IPD).
                             Los becados por los Programas Deportivos de Alta Competencia (PRODAC) en las universidades privadas societarias.
-                            Las personas con discapacidad tienen derecho a una reserva del 5 % de las va- cantes ofrecidas en sus procedimientos de admisión.
+                            Las personas con discapacidad tienen derecho a una reserva del 5 % de las vacantes ofrecidas en sus procedimientos de admisión.
 
 
 						</div>
