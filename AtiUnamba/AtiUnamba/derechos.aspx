@@ -74,7 +74,7 @@
 							Usar las instalaciones de su centro de estudios exclusivamente para los fines universitarios.
 							Respetar la democracia, practicar la tolerancia, cuidar los bienes de la institución y rechazar la violencia.
 							Matricularse un número mínimo de doce (12) créditos por semestre para conservar su condición de estudiante regular, salvo que le falten menos para culminar la carrera.
-							Los demás que disponga el Estatuto de cada universidad.
+							Los demás que disponga el Estatuto de cada universidad.      
 
 
 
