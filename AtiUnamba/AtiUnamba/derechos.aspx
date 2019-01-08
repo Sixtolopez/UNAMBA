@@ -64,6 +64,19 @@
                             Los becados por los Programas Deportivos de Alta Competencia (PRODAC) en las universidades privadas societarias.
                             Las personas con discapacidad tienen derecho a una reserva del 5 % de las vacantes ofrecidas en sus procedimientos de admisión.
 
+                            Artículo 99. Deberes de los estudiante
+
+							Respetar la Constitución Política del Perú y el estado de derecho.
+							Aprobar las materias correspondientes al periodo lectivo que cursan.
+							Cumplir con esta Ley y con las normas internas de la universidad.
+							Respetar los derechos de los miembros de la comunidad universitaria y el principio de autoridad.
+							Respetar la autonomía universitaria y la inviolabilidad de las instalaciones universitarias.
+							Usar las instalaciones de su centro de estudios exclusivamente para los fines universitarios.
+							Respetar la democracia, practicar la tolerancia, cuidar los bienes de la institución y rechazar la violencia.
+							Matricularse un número mínimo de doce (12) créditos por semestre para conservar su condición de estudiante regular, salvo que le falten menos para culminar la carrera.
+							Los demás que disponga el Estatuto de cada universidad.
+
+
 
 						</div>
 						
