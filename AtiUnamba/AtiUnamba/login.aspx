@@ -25,7 +25,7 @@
         <td>&nbsp;</td>
         <td class="auto-style1">
             <asp:Label ID="Label1" runat="server" Font-Size="35px" ForeColor="#0033CC" Text="UNAMBA"></asp:Label> <br />
-            <asp:Label ID="Label2" runat="server" Font-Size="35px" ForeColor="#0033CC" Text="RESPONDABILIDADES Y DERECHOS" Font-Italic="False"></asp:Label><br/>
+            <asp:Label ID="Label2" runat="server" Font-Size="35px" ForeColor="Black" Text="RESPONDABILIDADES Y DERECHOS" Font-Italic="False"></asp:Label><br/>
             <img src="images/descarga.jpg" />
         </td> 
     </tr>
