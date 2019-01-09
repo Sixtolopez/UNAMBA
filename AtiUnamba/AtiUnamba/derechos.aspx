@@ -103,11 +103,7 @@
 							Ejercer el derecho de asociación, para fines vinculados con los de la universidad.
 
   							Tener en las universidades privadas, la posibilidad de acceder a escalas de pago diferenciadas, previo estudio de la situación económica y del rendimiento académico del alumno.
-
-
-
-
-
+                            
 						</div>
 						
 					</div>
