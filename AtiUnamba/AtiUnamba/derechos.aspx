@@ -85,8 +85,13 @@
 							Participar en el proceso de evaluación a los docentes por periodo académico con fines de permanencia, promoción o separación.
 
 							Tener la posibilidad de expresar libremente sus ideas, sin que pueda ser sancionado por causa de las mismas.
-							
+
 							Participar en el gobierno y fiscalización de la actividad universitaria, a través de los procesos electorales internos, de acuerdo con esta Ley y la regulación que establezca cada universidad.
+
+							Ejercer el derecho de asociación, para fines vinculados con los de la universidad.
+							
+  							Tener en las universidades privadas, la posibilidad de acceder a escalas de pago diferenciadas, previo estudio de la situación económica y del rendimiento académico del alumno.
+
 
 
 
