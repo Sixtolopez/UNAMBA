@@ -97,7 +97,6 @@
     <Content Include="assets\js\skel.min.js" />
     <Content Include="assets\js\util.js" />
     <Content Include="CREDITS.txt" />
-    <Content Include="dbAlumno.svc" />
     <Content Include="derechos.aspx" />
     <Content Include="elements.html" />
     <Content Include="generic.html" />
