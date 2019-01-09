@@ -35,23 +35,25 @@
 				<section class="wrapper style1">
 					<div class="inner">
 						<header class="align-center">
-							<h2>LEY UNIVERSITARIA Ley N.° 30220 ESTUDIANTES</h2>
+							<h2>       LEY UNIVERSITARIA Ley N.° 30220 ESTUDIANTES</h2>
 							<p>&nbsp;</p>
 						</header>
 						<div class="video">
 
 							 &nbsp;
-							 Artículo 97. Estudiantes
+
+							                 Artículo 97. Estudiantes
+
                               Son estudiantes universitarios de pregrado quienes, habiendo concluido los estudios de educación secundaria, han aprobado el proceso de admisión a la universidad, han alcanzado vacante y se encuentran matriculados en ella. 
 
                               Los estudiantes de los programas de posgrado, de segunda especialidad, así como de los programas de educación continua, son quienes han aprobado el proceso de admisión y se encuentran matriculados. En ambos casos se sujetan a lo dispuesto en los estatutos correspondientes. Los estudiantes extranjeros no requieren de visa para la matrícula; la misma que debe regularizarse antes del inicio del semestre lectivo siguiente.
 
 
-                              Artículo 98. PROCESO DE ADMISIÓN 
+                                             Artículo 98. PROCESO DE ADMISIÓN 
 
                               La admisión a la universidad se realiza mediante concurso público, previa definición de plazas y máximo una vez por ciclo. El concurso consta de un examen de conocimientos como proceso obligatorio principal y una evaluación de aptitudes y actitudes de forma complementaria opcional. El Estatuto de cada universidad establece las modalidades y reglas que rigen el proceso ordinario de admisión y el régimen de matrícula al que pueden acogerse los estudiantes. Ingresan a la universidad los postulantes que alcancen plaza vacante y por estricto orden de mérito. 
 
-                              Artículo 98. PROCESO DE ADMISIÓN 
+                                             Artículo 98. PROCESO DE ADMISIÓN 
 
 	                            Las universidades determinan el número de vacantes, con las siguientes excepciones:
 
@@ -68,7 +70,7 @@
 
 	                            Las personas con discapacidad tienen derecho a una reserva del 5 % de las vacantes ofrecidas en sus procedimientos de admisión.
 
-                            Artículo 99. DEBERES DE LOS ESTUDIANTES 
+                            					Artículo 99. DEBERES DE LOS ESTUDIANTES 
 
 							Respetar la Constitución Política del Perú y el estado de derecho.
 
@@ -88,7 +90,7 @@
 
 							Los demás que disponga el Estatuto de cada universidad.      
 
-							Artículo 100. DERECHOS DE LOS  ESTUDIANTES
+										Artículo 100. DERECHOS DE LOS  ESTUDIANTES
 
                             Recibir una formación académica de calidad que les otorgue conocimientos generales para el desempeño profesional y herramientas de investigación. 
 
