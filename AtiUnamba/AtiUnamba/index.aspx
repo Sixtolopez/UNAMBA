@@ -91,7 +91,6 @@
 							<ul class="alt">
 								<!--<li><a href="#">...</a></li>
 								<li><a href="#">...</a></li>
-								<li><a href="#">...</a></li>
 								<li><a href="#">...</a></li>-->
 							</ul>
 						</div>
