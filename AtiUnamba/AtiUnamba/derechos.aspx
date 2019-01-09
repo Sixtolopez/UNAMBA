@@ -70,7 +70,7 @@
 
 	                            Las personas con discapacidad tienen derecho a una reserva del 5 % de las vacantes ofrecidas en sus procedimientos de admisión.
 
-                            					Artículo 99. DEBERES DE LOS ESTUDIANTES 
+                            				Artículo 99. DEBERES DE LOS ESTUDIANTES 
 
 							Respetar la Constitución Política del Perú y el estado de derecho.
 
