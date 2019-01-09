@@ -78,6 +78,16 @@
 
 							Artículo 100. Derechos de los estudiantes
 
+                            Recibir una formación académica de calidad que les otorgue conocimientos generales para el desempeño profesional y herramientas de investigación. 
+
+							La gratuidad de la enseñanza en la universidad pública.
+
+							Participar en el proceso de evaluación a los docentes por periodo académico con fines de permanencia, promoción o separación.
+
+							Tener la posibilidad de expresar libremente sus ideas, sin que pueda ser sancionado por causa de las mismas.
+							
+							Participar en el gobierno y fiscalización de la actividad universitaria, a través de los procesos electorales internos, de acuerdo con esta Ley y la regulación que establezca cada universidad.
+
 
 
 
