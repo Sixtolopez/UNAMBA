@@ -90,7 +90,7 @@
 
 							Los demás que disponga el Estatuto de cada universidad.      
 
-										Artículo 100. DERECHOS DE LOS  ESTUDIANTES
+									Artículo 100. DERECHOS DE LOS  ESTUDIANTES
 
                             Recibir una formación académica de calidad que les otorgue conocimientos generales para el desempeño profesional y herramientas de investigación. 
 
