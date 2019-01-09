@@ -42,7 +42,7 @@
 					<div class="inner">
 						<header>
 							<h1>UNAMBA</h1>
-							<p>UNIVERSIDAD NACIONAL MICAELA BASTIDAS DE APURIMAC.</p>
+							<p>UNIVERSIDAD NACIONAL MICAELA BASTIDAS DE APURIMAC</p>
 						</header>
 						<a href="#main" class="button big alt scrolly">ACCEDER A TUS DERECHOS Y DEVERES</a>
 					</div>
