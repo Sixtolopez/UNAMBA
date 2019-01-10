@@ -109,6 +109,9 @@
                             
                             Artículo 100.  DERECHOS  DE LOS ESTUDIANTES 
 
+                            Contar con ambientes, instalaciones, mobiliario y equipos que sean accesibles para las personas con discapacidad. 
+
+
 						</div>
 						
 					</div>
