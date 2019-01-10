@@ -107,6 +107,8 @@
 
   							Tener en las universidades privadas, la posibilidad de acceder a escalas de pago diferenciadas, previo estudio de la situación económica y del rendimiento académico del alumno.
                             
+                            Artículo 100.  DERECHOS  DE LOS ESTUDIANTES 
+
 						</div>
 						
 					</div>
