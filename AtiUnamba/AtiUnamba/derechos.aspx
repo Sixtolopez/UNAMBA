@@ -119,6 +119,9 @@
 
                             En el caso de las universidades públicas, la gratuidad de la enseñanza se garantiza para el estudio de una sola carrera.
 
+                            El alumno tiene el derecho de gratuidad para el asesoramiento, la elaboración y la sustentación de su tesis, para obtener el grado de Bachiller, por una sola vez.
+
+
  
  
 
