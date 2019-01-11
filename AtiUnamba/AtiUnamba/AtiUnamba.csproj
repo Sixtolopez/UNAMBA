@@ -100,6 +100,7 @@
     <Content Include="derechos.aspx" />
     <Content Include="elements.html" />
     <Content Include="generic.html" />
+    <Content Include="Global.asax" />
     <Content Include="images\banner.jpg" />
     <Content Include="images\banner.mp4" />
     <Content Include="images\bg.jpg" />
@@ -131,6 +132,9 @@
     </Compile>
     <Compile Include="derechos.aspx.designer.cs">
       <DependentUpon>derechos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="IISHandler1.cs" />
     <Compile Include="index.aspx.cs">
