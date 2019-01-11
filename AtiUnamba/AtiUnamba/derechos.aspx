@@ -121,12 +121,6 @@
 
                             El alumno tiene el derecho de gratuidad para el asesoramiento, la elaboración y la sustentación de su tesis, para obtener el grado de Bachiller, por una sola vez.
 
-
- 
- 
-
-
-
 						</div>
 						
 					</div>
