@@ -116,6 +116,9 @@
                             Utilizar los servicios académicos y de bienestar y asistencia que ofrezca la institución universitaria.
 
                             Solicitar reserva de matrícula por razones de trabajo o de otra naturaleza debidamente sustentada. No excederá de tres (3) años consecutivos o alternos.
+
+                            En el caso de las universidades públicas, la gratuidad de la enseñanza se garantiza para el estudio de una sola carrera.
+
  
  
 
