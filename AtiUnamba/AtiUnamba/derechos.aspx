@@ -113,7 +113,10 @@
 
                             Ingresar libremente a las instalaciones universitarias y a las actividades académicas y de investigación programadas.
 
-                            Utilizar los servicios académicos y de bienestar y asistencia que ofrezca la institución universitaria. 
+                            Utilizar los servicios académicos y de bienestar y asistencia que ofrezca la institución universitaria.
+
+                            Solicitar reserva de matrícula por razones de trabajo o de otra naturaleza debidamente sustentada. No excederá de tres (3) años consecutivos o alternos.
+ 
  
 
 
