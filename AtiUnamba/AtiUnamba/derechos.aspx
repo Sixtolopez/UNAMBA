@@ -111,7 +111,10 @@
 
                             Contar con ambientes, instalaciones, mobiliario y equipos que sean accesibles para las personas con discapacidad. 
 
-                            Ingresar libremente a las instalaciones universitarias y a las actividades académicas y de investigación programadas. 
+                            Ingresar libremente a las instalaciones universitarias y a las actividades académicas y de investigación programadas.
+
+                            Utilizar los servicios académicos y de bienestar y asistencia que ofrezca la institución universitaria. 
+ 
 
 
 
