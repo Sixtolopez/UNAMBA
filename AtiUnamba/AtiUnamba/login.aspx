@@ -43,6 +43,9 @@
         <td>&nbsp;</td>
         <td  style="align-content:center" class="auto-style1">
             <asp:TextBox ID="txtCodigo" runat="server"></asp:TextBox>
+            <asp:RegularExpressionValidator ID="RegularExpressionValidor1" runat="server" ControlToValidate="txtCodigo" ErrorMessage ="Error ingrese tu codigo"
+                ForeColor="Red" ValidationExpression="^[0-9]*" ></asp:RegularExpressionValidator>
+
         </td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
@@ -61,6 +64,7 @@
         <td>&nbsp;</td>
         <td class="auto-style1">
             <asp:TextBox ID="txtPassword" runat="server"></asp:TextBox>
+             
             <br />
         </td>
         <td>&nbsp;</td>
