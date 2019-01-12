@@ -123,6 +123,8 @@
 
                             Los demás que disponga el Estatuto de la universidad
 
+                                	Artículo 101. Sanciones 
+
 
 						</div>
 						
