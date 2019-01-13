@@ -80,7 +80,10 @@
 						<div class="col">
 							<h3>Sedes</h3>
 							<ul class="alt">
-								
+								<li><a href="#">Cotabambas</a></li>
+								<li><a href="#">Vilcabamba</a></li>
+								<li><a href="#">Haquira</a></li>
+								<li><a href="#">Abancay</a></li>
 							</ul>
 						</div>
 						<div class="col">
