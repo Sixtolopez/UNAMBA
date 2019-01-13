@@ -67,14 +67,7 @@
 						<div class="col">
 							<h3>CARRERAS PROFESIONALES</h3>
 							<ul class="alt">
-								<li><a href="#">Ingenieria Informatica y Sistemas.</a></li>
-								<li><a href="#">Ingenieria de Minas</a></li>
-								<li><a href="#">Ingenieria de Civil</a></li>
-								<li><a href="#">Administracion de Empresas</a></li>
-								<li><a href="#">Educacion Inicial e intercultural Bilingue</a></li>
-								<li><a href="#">Ciencia Politicas y Gobernabilidad</a></li>
-								<li><a href="#">Ingenieria Agroindustrial</a></li>
-								<li><a href="#">medicina veterinaria y zootecnia</a></li>
+								
 							</ul>
 						</div>
 						<div class="col">
