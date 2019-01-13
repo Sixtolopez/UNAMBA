@@ -22,9 +22,7 @@
 		<!-- Nav -->
 			<nav id="menu">
 				<ul class="links">
-					<li><a href="index.html">Inicio</a></li>
-					<li><a href="generic.html">General</a></li>
-					<li><a href="elements.html">Elementos</a></li>
+					
 				</ul>
 			</nav>
 
