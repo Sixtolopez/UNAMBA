@@ -125,7 +125,10 @@
 
                                 	Artículo 101. Sanciones 
 
-                            Los estudiantes que incumplan los deberes señalados en la presente Ley, deben ser sometidos a proceso disciplinario y son sujetos a las sanciones siguientes:  
+                            Los estudiantes que incumplan los deberes señalados en la presente Ley, deben ser sometidos a proceso disciplinario y son sujetos a las sanciones siguientes:
+
+                            	Amonestación escrita.
+  
 
 
 
