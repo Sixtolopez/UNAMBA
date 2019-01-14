@@ -77,8 +77,6 @@
     <Content Include="assets\js\util.js" />
     <Content Include="CREDITS.txt" />
     <Content Include="derechos.aspx" />
-    <Content Include="elements.html" />
-    <Content Include="generic.html" />
     <Content Include="images\banner.jpg" />
     <Content Include="images\banner.mp4" />
     <Content Include="images\bg.jpg" />

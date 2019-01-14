@@ -1,12 +1,26 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="login.aspx.cs" Inherits="AtiUnamba.index" %>
 
-<head>
-    <style type="text/css">
+<!DOCTYPE HTML>
+<!--
+	Broadcast by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
+	<head>
+         <style type="text/css">
         .auto-style1 {
             width: 388px;
         }
     </style>
-</head>
+		<title>unamba</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="subpage">
+
+
 <form id="form1" runat="server">
 
 <table style="width:100%; background-color:khaki">
