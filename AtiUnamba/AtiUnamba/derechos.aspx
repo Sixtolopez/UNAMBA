@@ -133,6 +133,9 @@
 
                             	Separación definitiva.
 
+                            Las sanciones son aplicadas por el órgano de gobierno correspondiente, de acuerdo al Estatuto y según la gravedad de la falta, bajo responsabilidad.
+
+
 
 						</div>
 						
