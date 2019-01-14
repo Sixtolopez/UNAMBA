@@ -23,6 +23,10 @@
             width: 430px;
             height: 54px;
         }
+        .auto-style7 {
+            width: 212px;
+            height: 236px;
+        }
     </style>
     <meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -40,7 +44,7 @@
         <td class="auto-style1">
             <asp:Label ID="Label1" runat="server" Font-Size="35px" ForeColor="#0033CC" Text="UNAMBA"></asp:Label> <br />
             <asp:Label ID="Label2" runat="server" Font-Size="35px" ForeColor="Black" Text="RESPONDABILIDADES Y DERECHOS" Font-Italic="False"></asp:Label><br/>
-            <img src="images/descarga.jpg" />
+            <img src="images/logo-universidad-nacional-micaela-bastidas-de-apurimac.png" class="auto-style7" />
         </td> 
     </tr>
     <tr>
@@ -56,7 +60,7 @@
         <td class="auto-style3">&nbsp;</td>
         <td  style="align-content:center" class="auto-style1">
             <asp:TextBox ID="txtCodigo" runat="server"></asp:TextBox>
-            <asp:RegularExpressionValidator ID="RegularExpressionValidator1" runat="server" BackColor="Maroon" ControlToValidate="txtCodigo" ErrorMessage="Ingrese tu codigo" ValidationExpression="^[0-9]*$"></asp:RegularExpressionValidator>
+            <asp:RegularExpressionValidator ID="RegularExpressionValidator1" runat="server" BackColor="Maroon" ControlToValidate="txtCodigo" ErrorMessage="Ingrese tu codigo" ValidationExpression="^[0-9]{6}$"></asp:RegularExpressionValidator>
            <br />
 
 
@@ -79,7 +83,7 @@
         <td class="auto-style1">
             <asp:TextBox ID="txtPassword" runat="server"></asp:TextBox>
              
-            <asp:RegularExpressionValidator ID="RegularExpressionValidator2" runat="server" BackColor="#990000" ControlToValidate="txtPassword" ErrorMessage="Ingrese tu DNI" ValidationExpression="^[0-9]*$"></asp:RegularExpressionValidator>
+            <asp:RegularExpressionValidator ID="RegularExpressionValidator2" runat="server" BackColor="#990000" ControlToValidate="txtPassword" ErrorMessage="Ingrese tu DNI" ValidationExpression="^[0-9]{8}$"></asp:RegularExpressionValidator>
              
             <br />
 
