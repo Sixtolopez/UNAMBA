@@ -131,6 +131,9 @@
 
                             	Separación hasta por dos (2) periodos lectivos.
 
+                            	Separación definitiva.
+
+
   
 
 
