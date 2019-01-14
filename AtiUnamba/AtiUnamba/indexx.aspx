@@ -42,9 +42,9 @@
 					<div class="inner">
 						<header>
 							<h1>UNAMBA</h1>
-							<p>UNIVERSIDAD NACIONAL MICAELA BASTIDAS DE APURIMAC.</p>
+							<p>UNIVERSIDAD NACIONAL MICAELA BASTIDAS DE APURIMAC</p>
 						</header>
-						<a href="#main" class="button big alt scrolly">ACCEDER A TUS DERECHOS Y DEVERES</a>
+						<a href="#main" class="button big alt scrolly">ACCEDER A TUS DERECHOS Y DEBERES</a>
 					</div>
 
 				    <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Button" />
@@ -71,14 +71,16 @@
 				<div class="inner">
 					<div class="flex flex-3">
 						<div class="col">
-							<h3>CARRERAS PROFESSIONALES</h3>
+							<h3>CARRERAS PROFESIONALES</h3>
 							<ul class="alt">
-								<li><a href="#">ingenieria Informatica y Sistemas</a></li>
-								<li><a href="#">ingenieria de Minas</a></li>
-								<li><a href="#">ingenieria Civil</a></li>
+								<li><a href="#">Ingenieria Informatica y Sistemas</a></li>
+								<li><a href="#">Ingenieria de Minas</a></li>
+								<li><a href="#">Ingenieria Civil</a></li>
 								<li><a href="#">Educacion Inicial intercultural Bilingue</a></li>
 								<li><a href="#">Ciencia Politicas y Gobernabilidad</a></li>
-								<li><a href="#">ingenieria Agroindustrial</a></li>
+								<li><a href="#">Ingenieria Agroindustrial</a></li>
+								<li><a href="#">Administracion de Empresas</a></li>
+								<li><a href="#">Medicina veterinaria y zootecnia</a></li>
 							</ul>
 						</div>
 						<div class="col">
@@ -91,12 +93,9 @@
 							</ul>
 						</div>
 						<div class="col">
-							<h3>Servicion Online</h3>
+							<h3>Servicio Online</h3>
 							<ul class="alt">
-								<li><a href="#">lorem ipsus.</a></li>
-								<li><a href="#">Vis id faucibus montes tempor</a></li>
-								<li><a href="#">Massa amet lobortis vel.</a></li>
-								<li><a href="#">Nascetur nunc varius commodo.</a></li>
+
 							</ul>
 						</div>
 					</div>
@@ -108,7 +107,8 @@
 						<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
 						<li><a href="#" class="icon fa-snapchat"><span class="label">Snapchat</span></a></li>
 					</ul>
-					&copy; Untitled. Design: <a href="https://templated.co">TEMPLATED</a>. Images: <a href="https://unsplash.com">Coverr</a>. Video: <a href="https://coverr.co">Coverr</a>.
+					<!--&copy; Untitled. Design: <a href="https://templated.co">TEMPLATED</a>. Images: <a href="https://unsplash.com">Coverr</a>. Video: <a href="https://coverr.co">Coverr</a>.
+					-->
 				</div>
 			</footer>
 

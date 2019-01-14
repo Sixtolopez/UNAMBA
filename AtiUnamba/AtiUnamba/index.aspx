@@ -74,6 +74,7 @@
 								<li><a href="#">Educacion Inicial e intercultural Bilingue</a></li>
 								<li><a href="#">Ciencia Politicas y Gobernabilidad</a></li>
 								<li><a href="#">Ingenieria Agroindustrial</a></li>
+								<li><a href="#">medicina veterinaria y zootecnia</a></li>
 							</ul>
 						</div>
 						<div class="col">
@@ -88,10 +89,9 @@
 						<div class="col">
 							<h3>Servicio Online</h3>
 							<ul class="alt">
+								<!--<li><a href="#">...</a></li>
 								<li><a href="#">...</a></li>
-								<li><a href="#">...</a></li>
-								<li><a href="#">...</a></li>
-								<li><a href="#">...</a></li>
+								<li><a href="#">...</a></li>-->
 							</ul>
 						</div>
 					</div>
@@ -103,8 +103,8 @@
 						<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
 						<li><a href="#" class="icon fa-snapchat"><span class="label">Snapchat</span></a></li>
 					</ul>
-					&copy; Untitled. Design: <a href="https://templated.co">TEMPLATED</a>. Images: <a href="https://unsplash.com">Coverr</a>. Video: <a href="https://coverr.co">Coverr</a>.
-				</div>
+					<!--&copy; Untitled. Design: <a href="https://templated.co">TEMPLATED</a>. Images: <a href="https://unsplash.com">Coverr</a>. Video: <a href="https://coverr.co">Coverr</a>.
+				--></div>
 			</footer>
 
 		<!-- Scripts -->
