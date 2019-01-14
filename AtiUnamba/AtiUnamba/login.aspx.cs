@@ -21,7 +21,7 @@ namespace AtiUnamba
 
             if (txtCodigo.Text == "")
             {
-                Label2.Text = "error de datos";
+                Label2.Text = "ERROR INICIAR SECION";
                 txtPassword.Text = "";
                 txtCodigo.Text = "";
                 txtCodigo.Focus();
