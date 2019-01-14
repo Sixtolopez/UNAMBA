@@ -1,3 +1,3 @@
 # UNAMBA
 
-![Alt text](relative/path/to/unamba.jpg?raw=true "Unamaba")
+![Alt text](unamba.jpg?raw=true "Unamaba")
